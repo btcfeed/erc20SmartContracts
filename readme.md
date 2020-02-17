@@ -4,7 +4,7 @@ Token Name: BTCFeed.org <br>
 Total Supply: 999,999,999,999 BTFD <br>
 Contract Address : 0x08411AfEb66c909F57d84FdcC5dD6DF5AB7062BC <br>
 Decimals: 2<br>
-
+Contract Link: https://etherscan.io/address/0x08411AfEb66c909F57d84FdcC5dD6DF5AB7062BC<br>
 <br>
 <br>
 
