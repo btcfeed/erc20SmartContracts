@@ -1,4 +1,4 @@
-<h1>https://www.btcfeed.org</h1>
+<h1>https://btcfeed.org</h1>
   
 Token Name: BTCFeed.org <br>
 Total Supply: 999,999,999,999 BTFD <br>
